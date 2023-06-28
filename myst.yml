@@ -1,0 +1,20 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: MyST Examples
+  # description:
+  keywords: []
+  authors: []
+  # github:
+  # bibliography: []
+  thebe:
+    lite: true
+site:
+  template: book-theme
+  title: MyST Examples
+  # logo:
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
