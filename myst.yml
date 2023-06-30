@@ -2,7 +2,7 @@
 version: 1
 project:
   title: MyST Lite Examples
-  # description:
+  description: Examples of using MyST Markdown, Thebe, and JupyterLite
   keywords: []
   authors: []
   # github:
