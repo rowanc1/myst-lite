@@ -12,6 +12,7 @@ In 1963, [Edward Lorenz](wiki:Edward_Norton_Lorenz), with the help of [](wiki:El
 \end{align}
 
 :::{figure} #lorenz
+:placeholder: ./images/lorenz.png
 The Lorenz Attractor using `ipywidgets`.
 :::
 
