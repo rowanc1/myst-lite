@@ -9,7 +9,7 @@ project:
   # bibliography: []
   jupyter: lite
 site:
-  template: article-theme
+  template: book-theme
   title: MyST Lite Examples
   # logo:
   nav: []
