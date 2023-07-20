@@ -19,6 +19,8 @@ format: jb-book
 root: index
 chapters:
   - file: interactive-articles
+  - file: innovation
   - file: lorenz
   - file: matplotlib
   - file: widgets
+  - file: exponential

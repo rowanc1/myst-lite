@@ -7,7 +7,8 @@ project:
   authors: []
   # github:
   # bibliography: []
-  jupyter: lite
+  thebe:
+    lite: true
 site:
   template: book-theme
   title: MyST Lite Examples
