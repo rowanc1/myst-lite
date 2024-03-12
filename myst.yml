@@ -12,9 +12,9 @@ project:
 site:
   template: book-theme
   title: MyST Lite Examples
-  # logo:
+  logo_text: MyST Lite Examples
   nav: []
   actions:
-    - title: Learn More
-      url: https://mystmd.org/guide
+    - title: MyST Lite Docs
+      url: https://mystmd.org/guide/integrating-jupyter#jupyterlite
   domains: []
