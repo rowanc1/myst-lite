@@ -21,6 +21,7 @@ chapters:
   - file: interactive-articles
   - file: innovation
   - file: lorenz
+  - file: matplotlib-static
   - file: matplotlib
   - file: widgets
   - file: exponential
