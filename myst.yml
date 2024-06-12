@@ -3,8 +3,10 @@ version: 1
 project:
   title: MyST Lite Examples
   description: Examples of using MyST Markdown, Thebe, and JupyterLite
-  keywords: []
-  authors: []
+  keywords:
+    - jupyter-lite
+  authors:
+    - name: Rowan Cockett
   # github:
   # bibliography: []
   thebe:
