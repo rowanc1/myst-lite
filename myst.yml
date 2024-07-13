@@ -9,8 +9,7 @@ project:
     - name: Rowan Cockett
   # github:
   # bibliography: []
-  thebe:
-    lite: true
+  jupyter: lite
 site:
   template: book-theme
   title: MyST Lite Examples
